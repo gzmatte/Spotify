@@ -9,4 +9,4 @@
 > Debloats Spotify Folder & Languages.
 ```
 
-A ReWork of [SpotX](https://github.com/SpotX-Official/SpotX).
+A rework of [SpotX](https://github.com/SpotX-Official/SpotX).

@@ -5,8 +5,10 @@
 </br> 
 
 ```
-> Old Spotify (1.2.13.661)
-> Blocks updates & ads.
+> Installs Old Spotify (1.2.13.661)
+> Blocks Updates & ADS.
 > Premium Features.
 > Debloats Spotify Folder & Languages.
 ```
+
+A "ReWork" of [SpotX](https://github.com/SpotX-Official/SpotX).

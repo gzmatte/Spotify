@@ -1,4 +1,5 @@
 @echo off
+color f0
 
 :: Line for changing spotx parameters, each parameter should be separated by a space      
 :: removed -confirm_spoti_recomended_over 

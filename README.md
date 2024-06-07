@@ -5,7 +5,7 @@
 ```
 > Installs Old Spotify (1.2.13.661)
 > Blocks Updates & ADS.
-> Premium Features.
+> Unlocks Premium Features.
 > Debloats Spotify Folder & Languages.
 ```
 

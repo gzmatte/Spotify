@@ -13,4 +13,4 @@ set tls=[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]:
 -Command %tls% $p='%param%'; """ & { $(try { iwr -useb %url% } catch { $p+= ' -m'; iwr -useb %url2% })} $p """" | iex
 
 pause
-exit /b
+exit

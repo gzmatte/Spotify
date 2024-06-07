@@ -7,8 +7,9 @@
 > Blocks Updates & ADS.
 > Unlocks Premium Features.
 > Debloats Spotify Folder & Languages.
+
+A rework of SpotX
 ```
-A rework of [SpotX](https://github.com/SpotX-Official/SpotX).
 
 </br> 
 

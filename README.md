@@ -12,7 +12,7 @@ A rework of [SpotX](https://github.com/SpotX-Official/SpotX).
 
 </br> 
 
-> **SPOTIFY**
+> **SPOTIFY MICROSOFT STORE**
 > 
 ![337788304-1fd2994a-9dab-473d-9f27-3b72a27db952(1)](https://github.com/gzmatte/spotify/assets/117684932/4ad64799-c5a2-4b90-9e18-35d0d6de1527)
 

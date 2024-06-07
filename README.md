@@ -9,9 +9,6 @@
 > Debloats Spotify Folder & Languages.
 ```
 
-A rework of [SpotX](https://github.com/SpotX-Official/SpotX).
-
-
 **SPOTIFY MICROSOFT STORE**
 
 ![Captura de pantalla 2024-06-07 174435](https://github.com/gzmatte/spotify/assets/117684932/1fd2994a-9dab-473d-9f27-3b72a27db952)

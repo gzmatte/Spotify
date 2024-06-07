@@ -1,4 +1,4 @@
-![Spotify](-)
+![Spotify LRM](-)
 -----------
 **Old Spotify Version + SpotX + AdBlock + Debloater.**
 

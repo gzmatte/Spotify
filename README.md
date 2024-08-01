@@ -20,5 +20,5 @@
 
 
 > [!NOTE]
-> IF U WANT TO USE DJ AI ON THIS OLD VERSION, START ANY SONG, GO TO YOUR PHONE AND START DJ AI, READY! (btw, you can't change his language sadly).
+> If u want to use DJ AI, Play any song, go to your phone and start DJ AI. (btw, you can't change his language sadly).
 

@@ -20,5 +20,5 @@
 
 
 > [!NOTE]
-> If u want to use DJ AI, Play any song, go to your phone and start DJ AI. (btw, you can't change his language sadly).
+> If u want to use DJ AI, Play any song, go to your phone and start DJ AI from there. (btw, you can't change his language sadly).
 

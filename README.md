@@ -2,6 +2,9 @@
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/spotify/releases/download/1/SPOTIFY-LRM.bat)
 </br> 
+
+> [!NOTE]
+> If u want to use DJ AI in this version, start any song, go to your phone and start DJ AI and it will start on the PC. (You can't change the voice language)
 ```
 > Installs Old Spotify (1.2.13.661)
 > Blocks Updates & ADS.
